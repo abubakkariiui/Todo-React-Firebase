@@ -1,2 +1,2 @@
 # Todo-React-Firebase
-todo app react js and firebase
+Todo app react js and firebase
